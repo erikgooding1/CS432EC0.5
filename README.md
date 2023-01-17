@@ -1,3 +1,9 @@
+# Info
+
+ This is a walkthrough assignment that utilizes Professor Kennedy's [Git Workshop Webpage](https://git.cs.odu.edu/tkennedy/git-workshop/-/wikis/Git-Workshop) for 
+ the Spring 2023 Semester CS 432 with Professor Poursardar
+
+
 # Requirements
 
   * Python 3.7
